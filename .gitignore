@@ -1,10 +1,7 @@
 # dependencies
 /node_modules
 
-# production
-/assets
-/build
-/gulp
+
 
 
 

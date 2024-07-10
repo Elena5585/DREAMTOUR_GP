@@ -1,0 +1,51 @@
+@import './fonts.css';
+
+html, body{ margin: 0; padding: 0; width: 100vw;}
+html{scroll-behavior: smooth;}
+body {
+    font-size: 16px;
+    font-weight: 300;
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden; 
+    scroll-behavior: smooth;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+}
+
+a {
+    text-decoration: none;
+    transition: all 0.2s;
+    font-family: 'Raleway', sans-serif;
+}
+
+img {
+    width: 100%;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+a:focus {
+    outline: none;
+    text-decoration: none;
+}
+
+p {
+    line-height: 32px;
+}
+
+ul,
+li {
+    margin: 0;
+    padding: 0;
+}
+

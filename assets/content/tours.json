@@ -1,0 +1,262 @@
+[
+	{"id" : "001T", "img": "./files/images/istanbul5.jpg", "webpImg": "./files/images/istanbul5.webp", "title": "istanbul", "place": "turkey", "regular_price": "1600", "discount_price": "1200",
+		"video": "./files/videos/tours/istanbul/istanbul.mp4", "period": "3 days / 2 nights", "itenarary": [
+	    {"action": "Welcome to Istanbul : transfer to your hotel, delight in a scenic Bosphorus cruise, capturing the city's skyline"}, 
+		{"action": "City tour : discover the historic wonders of Topkapi Palace, the Hagia Sophia, Blue Mosque  and the Grand Bazaar"},
+		{"action": "Goodbye Istanbul : enjoy a delightful morning stroll along the Bosphorus. Unwind with a romantic lunch featuring a diverse array of local Turkish delights. Transfer to the airport"}
+		],
+		"images": [
+			{"source": "./files/images/tours/istanbul/istanbul-min.jpg", "sourceWebp": "./files/images/tours/istanbul/istanbul-min.webp"},
+			{"source": "./files/images/tours/istanbul/istanbul2-min.jpg", "sourceWebp": "./files/images/tours/istanbul/istanbul2-min.webp"},
+			{"source": "./files/images/tours/istanbul/istanbul3-min.jpg", "sourceWebp": "./files/images/tours/istanbul/istanbul3-min.webp"},
+			{"source": "./files/images/tours/istanbul/istanbul4-min.jpg", "sourceWebp": "./files/images/tours/istanbul/istanbul4-min.webp"}
+		],
+		"minImages": [
+			{"source": "./files/images/tours/istanbul/istanbul-min.jpg", "sourceWebp": "./files/images/tours/istanbul/istanbul-min.webp"},
+			{"source": "./files/images/tours/istanbul/istanbul2-min.jpg", "sourceWebp": "./files/images/tours/istanbul/istanbul2-min.webp"},
+			{"source": "./files/images/tours/istanbul/istanbul3-min.jpg", "sourceWebp": "./files/images/tours/istanbul/istanbul3-min.webp"},
+			{"source": "./files/images/tours/istanbul/istanbul4-min.jpg", "sourceWebp": "./files/images/tours/istanbul/istanbul4-min.webp"}
+		]
+	},
+	{"id" : "002T", "img": "./files/images/hawaii.jpg", "webpImg": "./files/images/hawaii.webp", "title": "maui", "place": "hawaii", "regular_price": "2800", "discount_price": "1900",
+		"video": "./files/videos/tours/hawaii/freecompress-hawaii.mp4", "period": "6 days / 5 nights", "itenarary": [
+	    {"action": "Welcome to Hawaii : arrive at the airport in Honolulu, transfer to your hotel, welcome dinner, orientation"}, 
+		{"action": "Honolulu - Hilo : we will fly to Big Island, where we will visit Hawaii National Volcano Park, Richardson Black Sand Beach, Rainbow Falls"},
+		{"action": "Hilo - Maui : we will fly to Maui, where we will visit Kepaniwai park & Culture Heritage Gardens, Mama's Fish House"},		
+		{"action": "Explore Maui : we will visit Ho'okipa beach park, Maui Tropical Plantation, Dragon's Teeth , Nakalele Blowholeand Kapalua"},
+		{"action": "Relax beach time in Maui"},
+		{"action": "Goodbye Hawaii : we will fly to Honolulu, have a relaxing lunch in your hotel and transfer to the airport"}
+		],
+		"images": [
+			{"source": "./files/images/tours/hawaii/hawaii-min.jpg", "sourceWebp": "./files/images/tours/hawaii/hawaii-min.webp"},
+			{"source": "./files/images/tours/hawaii/hawaii1.jpg", "sourceWebp": "./files/images/tours/hawaii/hawaii1.webp"},
+			{"source": "./files/images/tours/hawaii/hawaii2-min.jpg", "sourceWebp": "./files/images/tours/hawaii/hawaii2-min.webp"},
+			{"source": "./files/images/tours/hawaii/hawaii3-min.jpg", "sourceWebp": "./files/images/tours/hawaii/hawaii3-min.webp"},
+			{"source": "./files/images/tours/hawaii/hawaii4.jpg", "sourceWebp": "./files/images/tours/hawaii/hawaii4.webp"},
+			{"source": "./files/images/tours/hawaii/hawaii5.jpg", "sourceWebp": "./files/images/tours/hawaii/hawaii5.webp"}
+		],
+		"minImages": [
+			{"source": "./files/images/tours/hawaii/hawaii-min.jpg", "sourceWebp": "./files/images/tours/hawaii/hawaii-min.webp"},
+			{"source": "./files/images/tours/hawaii/hawaii1.jpg", "sourceWebp": "./files/images/tours/hawaii/hawaii1.webp"},
+			{"source": "./files/images/tours/hawaii/hawaii2-min.jpg", "sourceWebp": "./files/images/tours/hawaii/hawaii2-min.webp"},
+			{"source": "./files/images/tours/hawaii/hawaii3-min.jpg", "sourceWebp": "./files/images/tours/hawaii/hawaii3-min.webp"}
+		]
+	},
+	{"id" : "003T", "img": "./files/images/rome.jpg", "webpImg": "./files/images/rome.webp", "title": "rome", "place": "italy", "regular_price": "1800", "discount_price": "1300",
+		"video": "./files/videos/tours/rome/Colosseum_compressed.mp4", "period": "6 days / 5 nights", "itenarary": [
+		{"action": "Welcome to Rome : arrive in Rome airport, get transferred to your hotel and have a delightful dinner with authentic Italian flavors"}, 
+		{"action": "Explore Ancient Rome : visit the iconic Colosseum and Roman Forum. Explore the ancient charm of Palatine Hill. Evening at leisure for a romantic dinner at a local restaurant"},
+		{"action": "Explore Vibrant Streets : discover the Vatican Museums and the breathtaking Sistine Chapel. Marvel at St. Peter's Basilica and Square with the Italy couple travel package"},
+		{"action": "Travel to Florence : visit the Uffizi Gallery and Ponte Vecchio, enjoy an evening by the Arno River, savoring delicious Italian cuisine"},
+		{"action": "Explore Art and Beauty in Florence : visit the Accademia Gallery to witness Michelangelo's David with the Italy couple holiday package"},		
+		{"action": "Goodbye Italy : a relaxing breakfast in your hotel and transfer to the airport"}	
+		],
+		"images": [
+			{"source": "./files/images/tours/rome/rome-min.jpg", "sourceWebp": "./files/images/tours/rome/rome-min.webp"},
+			{"source": "./files/images/tours/rome/rome2-min.jpg", "sourceWebp": "./files/images/tours/rome/rome2-min.webp"},
+			{"source": "./files/images/tours/rome/rome3.jpg", "sourceWebp": "./files/images/tours/rome/rome3.webp"},
+			{"source": "./files/images/tours/rome/rome4-min.jpg", "sourceWebp": "./files/images/tours/rome/rome4-min.webp"},
+			{"source": "./files/images/tours/rome/rome5-min.jpg", "sourceWebp": "./files/images/tours/rome/rome5-min.webp"},
+			{"source": "./files/images/tours/rome/rome6.jpg", "sourceWebp": "./files/images/tours/rome/rome6.webp"},
+			{"source": "./files/images/tours/rome/rome7-min.jpg", "sourceWebp": "./files/images/tours/rome/rome7-min.webp"},
+			{"source": "./files/images/tours/rome/rome8.jpg", "sourceWebp": "./files/images/tours/rome/rome8.webp"},
+			{"source": "./files/images/tours/rome/rome9-min.jpg", "sourceWebp": "./files/images/tours/rome/rome9-min.webp"}
+		],
+		"minImages": [
+			{"source": "./files/images/tours/rome/rome-min.jpg", "sourceWebp": "./files/images/tours/rome/rome-min.webp"},
+			{"source": "./files/images/tours/rome/rome2-min.jpg", "sourceWebp": "./files/images/tours/rome/rome2-min.webp"},
+			{"source": "./files/images/tours/rome/rome4-min.jpg", "sourceWebp": "./files/images/tours/rome/rome4-min.webp"},
+			{"source": "./files/images/tours/rome/rome5-min.jpg", "sourceWebp": "./files/images/tours/rome/rome5-min.webp"},
+			{"source": "./files/images/tours/rome/rome6.jpg", "sourceWebp": "./files/images/tours/rome/rome6.webp"},
+			{"source": "./files/images/tours/rome/rome7-min.jpg", "sourceWebp": "./files/images/tours/rome/rome7-min.webp"},
+			{"source": "./files/images/tours/rome/rome8.jpg", "sourceWebp": "./files/images/tours/rome/rome8.webp"},
+			{"source": "./files/images/tours/rome/rome9-min.jpg", "sourceWebp": "./files/images/tours/rome/rome9-min.webp"}
+		]
+	},
+	{"id" : "004T", "img": "./files/images/london.jpg", "webpImg": "./files/images/london.webp", "title": "london", "place": "england", "regular_price": "1600", "discount_price": "1150",
+		"video": "./files/videos/tours/london/london_compressed.mp4", "period": "4 days / 3 nights", "itenarary": [
+	    {"action": "Welcome to London : transfer to your hotel, welcome dinner, orientation"}, 
+		{"action": "City tour : Buckingham Palace, Tower of London, and Big Ben"},
+		{"action": "Explore London : Experience the grandeur of St. Paul's Cathedral and witness its breathtaking architecture.Visit the impressive Birmingham Museum and Art Gallery. Enjoy a relaxing boat ride on the River Thames"},		
+		{"action": "Goodbye London : A relaxing breakfast in your hotel and transfer to the airport"}
+		],
+		"images": [
+			{"source": "./files/images/tours/london/london-min.jpg", "sourceWebp": "./files/images/tours/london/london-min.webp"},
+			{"source": "./files/images/tours/london/london2.jpg", "sourceWebp": "./files/images/tours/london/london2.webp"},
+			{"source": "./files/images/tours/london/london3-min.jpg", "sourceWebp": "./files/images/tours/london/london3-min.webp"},
+			{"source": "./files/images/tours/london/london4-min.jpg", "sourceWebp": "./files/images/tours/london/london4-min.webp"},
+			{"source": "./files/images/tours/london/london5.jpg", "sourceWebp": "./files/images/tours/london/london5.webp"},
+			{"source": "./files/images/tours/london/london6-min.jpg", "sourceWebp": "./files/images/tours/london/london6-min.webp"},
+			{"source": "./files/images/tours/london/london7.jpg", "sourceWebp": "./files/images/tours/london/london7.webp"}			
+		],
+		"minImages": [
+			{"source": "./files/images/tours/london/london-min.jpg", "sourceWebp": "./files/images/tours/london/london-min.webp"},
+			{"source": "./files/images/tours/london/london2.jpg", "sourceWebp": "./files/images/tours/london/london2.webp"},
+			{"source": "./files/images/tours/london/london3-min.jpg", "sourceWebp": "./files/images/tours/london/london3-min.webp"},
+			{"source": "./files/images/tours/london/london4-min.jpg", "sourceWebp": "./files/images/tours/london/london4-min.webp"},
+			{"source": "./files/images/tours/london/london5.jpg", "sourceWebp": "./files/images/tours/london/london5.webp"},
+			{"source": "./files/images/tours/london/london6-min.jpg", "sourceWebp": "./files/images/tours/london/london6-min.webp"}			
+		]
+	},
+	{"id" : "005T", "img": "./files/images/paris.jpg",  "webpImg": "./files/images/paris.webp", "title": "paris", "place": "france", "regular_price": "1700", "discount_price": "1080",
+		"video": "./files/videos/tours/paris/paris.mp4", "period": "5 days / 4 nights", "itenarary": [
+	    {"action": "Welcome to Paris : transfer to your hotel, welcome dinner, orientation"}, 
+		{"action": "City tour : you'll discover the iconic landmarks and charming neighborhoods of Paris. You'll start with a visit to the Eiffel Tower, where you can marvel at the stunning views of the city from the top"},
+		{"action": "The opulent Palace of Versailles : you'll be taken on a guided tour of the palace, which was once the seat of power for the French monarchy. You'll marvel at the lavish interiors and stunning gardens, including the famous Hall of Mirrors, the Royal Chapel, and the Grand Trianon"},
+		{"action": "Enter the Louvre and see the Mona Lisa"},
+		{"action": "Goodbye Paris : A relaxing breakfast in your hotel and transfer to the airport"}
+		],
+		"images": [
+			{"source": "./files/images/tours/paris/paris.jpg", "sourceWebp": "./files/images/tours/paris/paris.webp"},
+			{"source": "./files/images/tours/paris/paris2.jpg", "sourceWebp": "./files/images/tours/paris/paris2.webp"},
+			{"source": "./files/images/tours/paris/paris3.jpg", "sourceWebp": "./files/images/tours/paris/paris3.webp"},
+			{"source": "./files/images/tours/paris/paris4-min.jpg", "sourceWebp": "./files/images/tours/paris/paris4-min.webp"},
+			{"source": "./files/images/tours/paris/paris5.jpg", "sourceWebp": "./files/images/tours/paris/paris5.webp"},
+			{"source": "./files/images/tours/paris/paris6-min.jpg", "sourceWebp": "./files/images/tours/paris/paris6-min.webp"},
+			{"source": "./files/images/tours/paris/paris7.jpg", "sourceWebp": "./files/images/tours/paris/paris7.webp"},
+			{"source": "./files/images/tours/paris/paris8.jpg", "sourceWebp": "./files/images/tours/paris/paris8.webp"},
+			{"source": "./files/images/tours/paris/paris9.jpg", "sourceWebp": "./files/images/tours/paris/paris9.webp"}
+		],
+		"minImages": [			
+			{"source": "./files/images/tours/paris/paris3.jpg", "sourceWebp": "./files/images/tours/paris/paris3.webp"},
+			{"source": "./files/images/tours/paris/paris4-min.jpg", "sourceWebp": "./files/images/tours/paris/paris4-min.webp"},
+			{"source": "./files/images/tours/paris/paris5.jpg", "sourceWebp": "./files/images/tours/paris/paris5.webp"},
+			{"source": "./files/images/tours/paris/paris7.jpg", "sourceWebp": "./files/images/tours/paris/paris7.webp"},
+			{"source": "./files/images/tours/paris/paris8.jpg", "sourceWebp": "./files/images/tours/paris/paris8.webp"},
+			{"source": "./files/images/tours/paris/paris9.jpg", "sourceWebp": "./files/images/tours/paris/paris9.webp"}
+		]
+	},		
+	{"id" : "006T", "img": "./files/images/tours/maldieves/maldives-min.jpg", "webpImg": "./files/images/tours/maldieves/maldives-min.webp", "title": "male", "place": "maldives", "regular_price": "2500", "discount_price": "1790",
+		"video": "./files/videos/tours/maldives/maldives_compressed.mp4", "period": "5 days / 4 nights", "itenarary": [
+	    {"action": "Welcome to Male : transfer to your hotel, the rest of the day is yours to plan and enjoy, welcome dinner"}, 
+		{"action": "Relax Beach Time : Beaches in the Maldives are just perfect for a romantic escape on your honeymoon tour. There are many beach games and water activities you can try to add some thrill"},
+		{"action": "Relax Beach Time : You can stay overnight at the resort"},
+		{"action": "Relax Beach Time : You can attempt a variety of beach games and water activities to add some excitement.You can stay overnight at the resort"},		
+		{"action": "Goodbye Male : A relaxing breakfast in your hotel and transfer to the airport"}
+		],
+		"images": [
+			{"source": "./files/images/tours/maldieves/maldives-min.jpg", "sourceWebp": "./files/images/tours/maldieves/maldives-min.webp"},
+			{"source": "./files/images/tours/maldieves/maldives1-2.jpg", "sourceWebp": "./files/images/tours/maldieves/maldives1-2.webp"},
+			{"source": "./files/images/tours/maldieves/maldives3-min.jpg", "sourceWebp": "./files/images/tours/maldieves/maldives3-min.webp"},
+			{"source": "./files/images/tours/maldieves/maldives4-2-min.jpg", "sourceWebp": "./files/images/tours/maldieves/maldives4-2-min.webp"},
+			{"source": "./files/images/tours/maldieves/maldives4-min.jpg", "sourceWebp": "./files/images/tours/maldieves/maldives4-min.webp"},
+			{"source": "./files/images/tours/maldieves/maldives5-min.jpg", "sourceWebp": "./files/images/tours/maldieves/maldives5-min.webp"},
+			{"source": "./files/images/tours/maldieves/maldives6.jpg", "sourceWebp": "./files/images/tours/maldieves/maldives6.webp"}
+		],
+		"minImages": [
+			{"source": "./files/images/tours/maldieves/maldives-min.jpg", "sourceWebp": "./files/images/tours/maldieves/maldives-min.webp"},
+			{"source": "./files/images/tours/maldieves/maldives1-2.jpg", "sourceWebp": "./files/images/tours/maldieves/maldives1-2.webp"},
+			{"source": "./files/images/tours/maldieves/maldives3-min.jpg", "sourceWebp": "./files/images/tours/maldieves/maldives3-min.webp"},
+			{"source": "./files/images/tours/maldieves/maldives4-2-min.jpg", "sourceWebp": "./files/images/tours/maldieves/maldives4-2-min.webp"},
+			{"source": "./files/images/tours/maldieves/maldives4-min.jpg", "sourceWebp": "./files/images/tours/maldieves/maldives4-min.webp"}
+		]
+	},
+	{"id" : "007T", "img": "./files/images/tours/phuket/phuket-min.jpg", "webpImg": "./files/images/tours/phuket/phuket-min.webp", "title": "Phuket", "place": "thailand", "regular_price": "1000", "discount_price": "750",
+		"video": "./files/videos/tours/thailand/thailand_compressed.mp4", "period": "7 days / 6 nights", "itenarary": [
+	    {"action": "Welcome to Thailand : arrive in Bangkok airport, transfer to your hotel, welcome dinner, orientation"}, 
+		{"action": "City tour : visit the White Marble Temple, Wat Po with its colossal 150-foot long 'Reclining Buddha', former residence of the Kings, the Grand Palace"},
+		{"action": "Hello Phuket : arrive to Phuket, transfer to your hotel and relax on the beach"},
+		{"action": "Explore Phuket : visit the Half Day Phuket City Tour with Big Buddha & Chalong Temple and relax time on the beach"},
+		{"action": "Hello Krabi : arrive to Krabi, transfer to your hotel and relax time on the beach"},
+		{"action": "Explore islands : 4 Islands Snorkeling Tour by Longtail Boat from Krabi with Walk on Tombolo"},
+		{"action": "Goodbye Thailand : A relaxing breakfast in your hotel< relax time on the beach and transfer to the airport"}
+		],
+		"images": [
+			{"source": "./files/images/tours/phuket/phuket-min.jpg", "sourceWebp": "./files/images/tours/phuket/phuket-min.webp"},
+			{"source": "./files/images/tours/phuket/phuket2-5-min.jpg", "sourceWebp": "./files/images/tours/phuket/phuket2-5-min.webp"},
+			{"source": "./files/images/tours/phuket/phuket2.jpg", "sourceWebp": "./files/images/tours/phuket/phuket2.webp"},
+			{"source": "./files/images/tours/phuket/phuket3-5.jpg", "sourceWebp": "./files/images/tours/phuket/phuket3-5.webp"},
+			{"source": "./files/images/tours/phuket/phuket3-min.jpg", "sourceWebp": "./files/images/tours/phuket/phuket3-min.webp"},
+			{"source": "./files/images/tours/phuket/phuket4-1.jpg", "sourceWebp": "./files/images/tours/phuket/phuket4-1.webp"},
+			{"source": "./files/images/tours/phuket/phuket4-min.jpg", "sourceWebp": "./files/images/tours/phuket/phuket4-min.webp"},
+			{"source": "./files/images/tours/phuket/phuket5-min.jpg", "sourceWebp": "./files/images/tours/phuket/phuket5-min.webp"},
+			{"source": "./files/images/tours/phuket/phuket6.jpg", "sourceWebp": "./files/images/tours/phuket/phuket6.webp"}
+		],
+		"minImages": [
+			{"source": "./files/images/tours/phuket/phuket-min.jpg", "sourceWebp": "./files/images/tours/phuket/phuket-min.webp"},
+			{"source": "./files/images/tours/phuket/phuket2.jpg", "sourceWebp": "./files/images/tours/phuket/phuket2.webp"},
+			{"source": "./files/images/tours/phuket/phuket3-5.jpg", "sourceWebp": "./files/images/tours/phuket/phuket3-5.webp"},
+			{"source": "./files/images/tours/phuket/phuket3-min.jpg", "sourceWebp": "./files/images/tours/phuket/phuket3-min.webp"},
+			{"source": "./files/images/tours/phuket/phuket4-1.jpg", "sourceWebp": "./files/images/tours/phuket/phuket4-1.webp"},
+			{"source": "./files/images/tours/phuket/phuket5-min.jpg", "sourceWebp": "./files/images/tours/phuket/phuket5-min.webp"}
+		]
+	},
+	{"id" : "008T", "img": "./files/images/amsterdam.jpg", "webpImg": "./files/images/amsterdam.webp",  "title": "amsterdam", "place": "netherlands", "regular_price": "1400", "discount_price": "1120",
+		"video": "./files/videos/tours/amsterdam/amsterdam.mp4", "period": "4 days / 3 nights", "itenarary": [
+		{"action": "Hello Amsterdam : transfer to your hotel, a visit to the Diamond Factory of Amsterdam, followed by Canal Cruise along Amsterdam's scenic waterways"}, 
+		{"action": "Time to explore Amsterdam : Van Gogh Museum, the Red Light District , the Anne Frank House, NEMO Science Museum"},
+		{"action": "Enjoy Keukenhof Gardens and its sea of flowers as far as the eye can see! Canal Cruise"},
+		{"action":"Goodbye Amsterdam : Have breakfast and check out from your hotel. You’ll be transferred to the Amsterdam International Airport post which you can board your flight back home with warm memories that you created with your beloved"}
+		],
+		"images": [
+			{"source": "./files/images/tours/amsterdam/amsterdam.jpg", "sourceWebp": "./files/images/tours/amsterdam/amsterdam.webp"},
+			{"source": "./files/images/tours/amsterdam/amsterdam1-2.jpg", "sourceWebp": "./files/images/tours/amsterdam/amsterdam1-2.webp"},
+			{"source": "./files/images/tours/amsterdam/amsterdam2-min.jpg", "sourceWebp": "./files/images/tours/amsterdam/amsterdam2-min.webp"},
+			{"source": "./files/images/tours/amsterdam/amsterdam4.jpg", "sourceWebp": "./files/images/tours/amsterdam/amsterdam4.webp"},
+			{"source": "./files/images/tours/amsterdam/amsterdam5-min.jpg", "sourceWebp": "./files/images/tours/amsterdam/amsterdam5-min.webp"}
+		],
+		"minImages": [
+			{"source": "./files/images/tours/amsterdam/amsterdam.jpg", "sourceWebp": "./files/images/tours/amsterdam/amsterdam.webp"},
+			{"source": "./files/images/tours/amsterdam/amsterdam1-2.jpg", "sourceWebp": "./files/images/tours/amsterdam/amsterdam1-2.webp"},
+			{"source": "./files/images/tours/amsterdam/amsterdam2-min.jpg", "sourceWebp": "./files/images/tours/amsterdam/amsterdam2-min.webp"},
+			{"source": "./files/images/tours/amsterdam/amsterdam4.jpg", "sourceWebp": "./files/images/tours/amsterdam/amsterdam4.webp"},
+			{"source": "./files/images/tours/amsterdam/amsterdam5-min.jpg", "sourceWebp": "./files/images/tours/amsterdam/amsterdam5-min.webp"}
+		]
+	},
+	{"id" : "009T", "img": "./files/images/tours/dubai/dubai.jpg", "webpImg": "./files/images/tours/dubai/dubai.webp", "title": "dubai", "place": "united arab emirates", "regular_price": "1100", "discount_price": "850",
+		"video": "./files/videos/tours/dubai/dubai_compressed.mp4", "period": "4 days / 3 nights", "itenarary": [
+		{"action": "Welcome at Dubai : transfer to your hotel, welcome dinner, orientation"}, 
+		{"action": "City tour : Burj Khalifa Tower, Museum Of The Future, the Jumeirah Mosque, the Dubai museum"},
+		{"action": "Desert safari & Bedouin camp"}, {"action":"Goodbye Dubai : Breakfast on the open space and transfer to the airport"}
+		],
+		"images": [
+			{"source": "./files/images/tours/dubai/dubai.jpg", "sourceWebp": "./files/images/tours/dubai/dubai.webp"},
+			{"source": "./files/images/tours/dubai/dubai2-3.jpg", "sourceWebp": "./files/images/tours/dubai/dubai2-3.webp"},
+			{"source": "./files/images/tours/dubai/dubai2-4.jpg", "sourceWebp": "./files/images/tours/dubai/dubai2-4.webp"},
+			{"source": "./files/images/tours/dubai/dubai2-5.jpg", "sourceWebp": "./files/images/tours/dubai/dubai2-5.webp"},
+			{"source": "./files/images/tours/dubai/dubai2-6-min.jpg", "sourceWebp": "./files/images/tours/dubai/dubai2-6-min.webp"},
+			{"source": "./files/images/tours/dubai/dubai2.jpg", "sourceWebp": "./files/images/tours/dubai/dubai2.webp"},
+			{"source": "./files/images/tours/dubai/dubai3-min.jpg", "sourceWebp": "./files/images/tours/dubai/dubai3-min.webp"},
+			{"source": "./files/images/tours/dubai/dubai4-min.jpg", "sourceWebp": "./files/images/tours/dubai/dubai4-min.webp"}
+		],
+		"minImages": [
+			{"source": "./files/images/tours/dubai/dubai.jpg", "sourceWebp": "./files/images/tours/dubai/dubai.webp"},
+			{"source": "./files/images/tours/dubai/dubai2-3.jpg", "sourceWebp": "./files/images/tours/dubai/dubai2-3.webp"},
+			{"source": "./files/images/tours/dubai/dubai2-4.jpg", "sourceWebp": "./files/images/tours/dubai/dubai2-4.webp"},
+			{"source": "./files/images/tours/dubai/dubai2-5.jpg", "sourceWebp": "./files/images/tours/dubai/dubai2-5.webp"},
+			{"source": "./files/images/tours/dubai/dubai2-6-min.jpg", "sourceWebp": "./files/images/tours/dubai/dubai2-6-min.webp"},
+			{"source": "./files/images/tours/dubai/dubai3-min.jpg", "sourceWebp": "./files/images/tours/dubai/dubai3-min.webp"}
+		]
+	},
+	{"id" : "010T", "img": "./files/images/vancouver.jpg", "webpImg": "./files/images/vancouver.webp", "title": "vancouver", "place": "canada", "regular_price": "1900", "discount_price": "1660",
+		"video": "./files/videos/tours/vancouver/vancouver_compressed.mp4", "period": "7 days / 6 nights", "itenarary": [
+		{"action": "Welcome at Vancouver : transfer to your hotel. Then, we will embark on a sightseeing tour of this wonderful Pacific city, visiting Canada Place, Robson Street, the First Nations Totem Pole in Stanley Park, and the Lion's Gate Bridge"}, 
+		{"action": "Go to to Kamloops : we will board the Vancouver Montaineer Railway to Kamloops. Along the way, we will get a view of the Fraser canyon's rapids and steep slopes and rocks in the Thompson River. We will enjoy the meal on the train. Stay overnight in Kamloops hotel"},
+		{"action": "Go to Banff : we will travel across the Rogers Pass, Spiral Tunnel, Horse Canyon as well as the Canadian Rockies glacier"}, 
+		{"action": "Banff National Park - Jasper National Park - Jasper : we will pass Icefield Parkway, visit attractions Bow Lake, Columbia Icefield, Glacier Skywalk, Ice Explorer and Athabasca Falls. Stay overnight in Jasper"},
+		{"action": "Jasper - Banff : will visit Maligne Lake, Maligne Canyon, Peyto Lake and Crowfoot Glacier"},
+		{"action": "Banff National Park - Yoho National Park - Banff : We will leave hotel and drive to Lake Louise. Then we will continue to Moraine Lake, see Ten Peaks Valley, Spiral Tunnel. We will also visit Emerald Lake and Natural Bridge"},
+		{"action": "Goodbye Canada : come back to Vancouver, have a relaxing dinner in your hotel and transfer to the airport"}
+		],
+		"images": [
+			{"source": "./files/images/tours/vancouver/vancouver.jpg", "sourceWebp": "./files/images/tours/vancouver/vancouver.webp"},
+			{"source": "./files/images/tours/vancouver/vancouver2.jpg", "sourceWebp": "./files/images/tours/vancouver/vancouver2.webp"},
+			{"source": "./files/images/tours/vancouver/vancouver3.jpg", "sourceWebp": "./files/images/tours/vancouver/vancouver3.webp"},
+			{"source": "./files/images/tours/vancouver/vancouver4-min.jpg", "sourceWebp": "./files/images/tours/vancouver/vancouver4-min.webp"},
+			{"source": "./files/images/tours/vancouver/vancouver5.jpg", "sourceWebp": "./files/images/tours/vancouver/vancouver5.webp"},
+			{"source": "./files/images/tours/vancouver/vancouver6-min.jpg", "sourceWebp": "./files/images/tours/vancouver/vancouver6-min.webp"},
+			{"source": "./files/images/tours/vancouver/vancouver7-min.jpg", "sourceWebp": "./files/images/tours/vancouver/vancouver7-min.webp"},
+			{"source": "./files/images/tours/vancouver/vancouver9-min.jpg", "sourceWebp": "./files/images/tours/vancouver/vancouver9-min.webp"},
+			{"source": "./files/images/tours/vancouver/vancouver10-min.jpg", "sourceWebp": "./files/images/tours/vancouver/vancouver10-min.webp"}
+		],
+		"minImages": [
+			{"source": "./files/images/tours/vancouver/vancouver2.jpg", "sourceWebp": "./files/images/tours/vancouver/vancouver2.webp"},
+			{"source": "./files/images/tours/vancouver/vancouver5.jpg", "sourceWebp": "./files/images/tours/vancouver/vancouver5.webp"},
+			{"source": "./files/images/tours/vancouver/vancouver6-min.jpg", "sourceWebp": "./files/images/tours/vancouver/vancouver6-min.webp"},
+			{"source": "./files/images/tours/vancouver/vancouver7-min.jpg", "sourceWebp": "./files/images/tours/vancouver/vancouver7-min.webp"},
+			{"source": "./files/images/tours/vancouver/vancouver9-min.jpg", "sourceWebp": "./files/images/tours/vancouver/vancouver9-min.webp"},
+			{"source": "./files/images/tours/vancouver/vancouver10-min.jpg", "sourceWebp": "./files/images/tours/vancouver/vancouver10-min.webp"}
+		]
+	}
+
+]
