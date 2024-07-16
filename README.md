@@ -18,9 +18,11 @@ Mobile view:
 
 Google PageSpeed Insights:
 
+DESKTOP:
 
 ![Screenshot](https://github.com/Elena5585/DREAMTOUR_GP/blob/main/assets/files/images/pagespeed_screenshot_desktop.png)
 
+MOBILE:
 
 ![Screenshot](https://github.com/Elena5585/DREAMTOUR_GP/blob/main/assets/files/images/pagespeed-screenshot-mobile.png)
 
